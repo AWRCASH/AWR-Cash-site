@@ -400,7 +400,6 @@ export default function HomePage() {
                 <div className="mt-8 p-4 bg-blue-50 rounded-lg">
                   <h4 className="font-semibold text-gray-800 mb-2">Horário de Atendimento</h4>
                   <p className="text-gray-600">Segunda a Sexta: 8h às 18h</p>
-                  <p className="text-gray-600">Sábado: 9h às 13h</p>
                 </div>
               </div>
             </div>
