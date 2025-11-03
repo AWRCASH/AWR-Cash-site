@@ -79,7 +79,7 @@ export default function HomePage() {
               <img 
                 src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663030097007/EqOOZgaAaSAeZvpH.png" 
                 alt="AWR Cash" 
-                className="h-12"
+                className="h-16"
               />
             </div>
             
@@ -409,66 +409,66 @@ export default function HomePage() {
       </section>
 
       {/* Footer */}
-      <footer className="bg-gray-800 text-white py-12">
+      <footer className="bg-blue-100 text-gray-800 py-12">
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
               <img 
                 src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663030097007/EqOOZgaAaSAeZvpH.png" 
                 alt="AWR Cash" 
-                className="h-12 mb-4"
+                className="h-16 mb-4"
               />
-              <p className="text-gray-300 mb-4">
+              <p className="text-gray-700 mb-4">
                 Soluções financeiras inteligentes para pessoas físicas e jurídicas, com tecnologia que simplifica sua vida.
               </p>
               <div className="flex space-x-4">
-                <a href="https://instagram.com/awrcash" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
+                <a href="https://instagram.com/awrcash" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-blue-600">
                   <Instagram className="w-6 h-6" />
                 </a>
               </div>
             </div>
             
             <div>
-              <h4 className="text-lg font-semibold mb-4">Serviços</h4>
+              <h4 className="text-lg font-semibold mb-4 text-gray-800">Serviços</h4>
               <ul className="space-y-2">
-                <li><a href="#" className="text-gray-300 hover:text-white">Empréstimo Pessoal</a></li>
-                <li><a href="#" className="text-gray-300 hover:text-white">Empréstimo Empresarial</a></li>
-                <li><a href="#" className="text-gray-300 hover:text-white">Antecipação de Recebíveis</a></li>
-                <li><a href="#" className="text-gray-300 hover:text-white">Desconto de Títulos</a></li>
+                <li><a href="#" className="text-gray-700 hover:text-blue-600">Empréstimo Pessoal</a></li>
+                <li><a href="#" className="text-gray-700 hover:text-blue-600">Empréstimo Empresarial</a></li>
+                <li><a href="#" className="text-gray-700 hover:text-blue-600">Antecipação de Recebíveis</a></li>
+                <li><a href="#" className="text-gray-700 hover:text-blue-600">Desconto de Títulos</a></li>
               </ul>
             </div>
             
             <div>
-              <h4 className="text-lg font-semibold mb-4">Links Úteis</h4>
+              <h4 className="text-lg font-semibold mb-4 text-gray-800">Links Úteis</h4>
               <ul className="space-y-2">
-                <li><a href="#services" className="text-gray-300 hover:text-white">Serviços</a></li>
-                <li><a href="#how-it-works" className="text-gray-300 hover:text-white">Como Funciona</a></li>
-                <li><a href="#testimonials" className="text-gray-300 hover:text-white">Depoimentos</a></li>
-                <li><a href="#contact" className="text-gray-300 hover:text-white">Contato</a></li>
+                <li><a href="#services" className="text-gray-700 hover:text-blue-600">Serviços</a></li>
+                <li><a href="#how-it-works" className="text-gray-700 hover:text-blue-600">Como Funciona</a></li>
+                <li><a href="#testimonials" className="text-gray-700 hover:text-blue-600">Depoimentos</a></li>
+                <li><a href="#contact" className="text-gray-700 hover:text-blue-600">Contato</a></li>
               </ul>
             </div>
             
             <div>
-              <h4 className="text-lg font-semibold mb-4">Contato</h4>
+              <h4 className="text-lg font-semibold mb-4 text-gray-800">Contato</h4>
               <div className="space-y-2">
                 <div className="flex items-center">
-                  <Phone className="w-5 h-5 mr-2 text-blue-400" />
-                  <span className="text-gray-300">(11) 97550-0328</span>
+                  <Phone className="w-5 h-5 mr-2 text-blue-600" />
+                  <span className="text-gray-700">(11) 97550-0328</span>
                 </div>
                 <div className="flex items-center">
-                  <Mail className="w-5 h-5 mr-2 text-blue-400" />
-                  <span className="text-gray-300">contato@awrcash.com.br</span>
+                  <Mail className="w-5 h-5 mr-2 text-blue-600" />
+                  <span className="text-gray-700">contato@awrcash.com.br</span>
                 </div>
                 <div className="flex items-center">
-                  <Instagram className="w-5 h-5 mr-2 text-blue-400" />
-                  <span className="text-gray-300">@awrcash</span>
+                  <Instagram className="w-5 h-5 mr-2 text-blue-600" />
+                  <span className="text-gray-700">@awrcash</span>
                 </div>
               </div>
             </div>
           </div>
           
-          <div className="border-t border-gray-700 mt-8 pt-8 text-center">
-            <p className="text-gray-300">
+          <div className="border-t border-blue-300 mt-8 pt-8 text-center">
+            <p className="text-gray-700">
               © {new Date().getFullYear()} AWR Cash. Todos os direitos reservados.
             </p>
           </div>

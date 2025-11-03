@@ -14,3 +14,9 @@
 - [x] Testar responsividade em dispositivos móveis
 - [x] Testar navegação suave entre seções
 - [ ] Publicar o site
+
+## Ajustes Solicitados
+
+- [x] Aumentar o tamanho do logo na barra do header
+- [x] Ajustar a cor de fundo do footer para azul mais claro
+- [x] Adicionar logo no footer com melhor visibilidade
