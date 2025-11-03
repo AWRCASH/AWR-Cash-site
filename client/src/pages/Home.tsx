@@ -79,7 +79,7 @@ export default function HomePage() {
               <img 
                 src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663030097007/EqOOZgaAaSAeZvpH.png" 
                 alt="AWR Cash" 
-                className="h-16" style={{paddingTop: '-10px', paddingRight: '-20px', paddingBottom: '-10px', paddingLeft: '-20px'}}
+                className="h-16" style={{paddingTop: '-10px', paddingRight: '-20px', paddingBottom: '-10px', paddingLeft: '-20px', width: '150px', height: '90px'}}
               />
             </div>
             
