@@ -20,3 +20,5 @@
 - [x] Aumentar o tamanho do logo na barra do header
 - [x] Ajustar a cor de fundo do footer para azul mais claro
 - [x] Adicionar logo no footer com melhor visibilidade
+- [x] Aumentar tamanho do logo novamente (200px × 120px no header, h-20 no footer)
+- [ ] Publicar via GitHub e Vercel

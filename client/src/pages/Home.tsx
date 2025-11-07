@@ -79,7 +79,7 @@ export default function HomePage() {
               <img 
                 src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663030097007/EqOOZgaAaSAeZvpH.png" 
                 alt="AWR Cash" 
-                className="h-16" style={{paddingTop: '-10px', paddingRight: '-20px', paddingBottom: '-10px', paddingLeft: '-20px', width: '150px', height: '90px'}}
+                className="h-24" style={{paddingTop: '-10px', paddingRight: '-20px', paddingBottom: '-10px', paddingLeft: '-20px', width: '200px', height: '120px'}}
               />
             </div>
             
@@ -415,7 +415,7 @@ export default function HomePage() {
               <img 
                 src="https://files.manuscdn.com/user_upload_by_module/session_file/310419663030097007/EqOOZgaAaSAeZvpH.png" 
                 alt="AWR Cash" 
-                className="h-16 mb-4"
+                className="h-20 mb-4"
               />
               <p className="text-gray-700 mb-4">
                 Soluções financeiras inteligentes para pessoas físicas e jurídicas, com tecnologia que simplifica sua vida.
