@@ -141,7 +141,7 @@ export default function HomePage() {
                   Solicitar Crédito
                 </a>
                 <a 
-                  href="https://wa.me/5511975500328" 
+                  href="https://wa.me/5511921499423" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="border-2 border-blue-600 text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-center"
@@ -342,8 +342,8 @@ export default function HomePage() {
                         <Phone className="w-6 h-6 text-blue-600 mt-1 mr-3" />
                         <div>
                           <p className="font-semibold text-gray-800">WhatsApp</p>
-                          <a href="https://wa.me/5511975500328" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
-                            (11) 97550-0328
+                          <a href="https://wa.me/5511921499423" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+                            (11) 92149-9423
                           </a>
                         </div>
                       </div>
@@ -370,8 +370,8 @@ export default function HomePage() {
                     <Phone className="w-6 h-6 text-blue-600 mt-1 mr-3" />
                     <div>
                       <p className="font-semibold text-gray-800">WhatsApp</p>
-                      <a href="https://wa.me/5511975500328" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
-                        (11) 97550-0328
+                      <a href="https://wa.me/5511921499423" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+                        (11) 92149-9423
                       </a>
                     </div>
                   </div>
@@ -452,7 +452,7 @@ export default function HomePage() {
               <div className="space-y-2">
                 <div className="flex items-center">
                   <Phone className="w-5 h-5 mr-2 text-blue-600" />
-                  <span className="text-gray-700">(11) 97550-0328</span>
+                  <span className="text-gray-700">(11) 92149-9423</span>
                 </div>
                 <div className="flex items-center">
                   <Mail className="w-5 h-5 mr-2 text-blue-600" />
