@@ -39,14 +39,14 @@ export default function HomePage() {
       title: 'Empréstimo com Garantia de Veículo',
       description: 'Use seu veículo como garantia e obtenha crédito com taxas reduzidas e prazos estendidos.',
       icon: <Car className="w-12 h-12 text-red-600" />,
-      features: ['Até 80% do valor do veículo', 'Veículo permanece com você', 'Avaliação rápida']
+      features: ['Até 70% do valor do veículo', 'Veículo permanece com você', 'Avaliação rápida']
     },
     {
       id: 'imoveis',
       title: 'Empréstimo com Garantia de Imóvel',
       description: 'Obtenha crédito com garantia de imóvel, ideal para investimentos ou grandes projetos.',
       icon: <Home className="w-12 h-12 text-indigo-600" />,
-      features: ['Até 70% do valor do imóvel', 'Prazos longos', 'Taxas diferenciadas']
+      features: ['Até 50% do valor do imóvel', 'Prazos longos', 'Taxas diferenciadas']
     }
   ];
 
