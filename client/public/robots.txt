@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://awrcash.com.br/sitemap.xml
